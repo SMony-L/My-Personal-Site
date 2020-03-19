@@ -70,9 +70,15 @@
 			"name": "familiar with Groovy"
 		}
 	],
-	"projects": {
-		"paragraphOne": "Apart from being a web developer, I enjoy most of my time being outdoors. In the winter, I am an avid skier and novice ice climber. During the warmer months here in Colorado, I enjoy mountain biking, free climbing, and kayaking.",
-		"paragraphTwo": "When forced indoors, I follow a number of sci-fi and fantasy genre movies and television shows, I am an aspiring chef, and I spend a large amount of my free time exploring the latest technology advancements in the front-end web development world."
-	}
+	"projects": [{
+		"title": "AI Pac Man",
+		"projectLang": "Python",
+		"aboutProject": "Implemented Pac-Man agents using artificial intelligent algorithms such as DFS, BFS, A* search, alpha-beta pruning, minimax, expectimax and a model free reinforcement learning algorithm. Designed strategies for the agents to play a multi-player capture-the-flag variant of Pacman."
+	}, 
+	{
+		"title": "Machine Learning Final Project",
+		"projectLang": "Python",
+		"aboutProject": "Collaborated in a team of four to analyze datasets from Scikit-learn library with linear regression, multivariate regression, decision tree, SVM and multi-layer perception classifier. Analyzed and generated ad-hoc reports with Jupyter Notebook and Latex"
+	}]
 
 }
