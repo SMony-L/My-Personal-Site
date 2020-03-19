@@ -1,0 +1,78 @@
+{
+	"landing": {
+		"firstName": "Sovanmony",
+		"lastName": "Lim",
+		"phoneNumber": "(978)996-3370",
+		"bio": "Hello, ",
+    "email": "l.sovanmony@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/smonylim/",
+		"github": "https://github.com/SMony-L"
+	},
+	"experience": [
+		{
+			"position": "Enterprise Architecture Co-op",
+			"organization": "MFS Investment Management",
+			"aboutWork": "Implemented Enterprise Architect Review Board with Kanban board in Jira to aid process efficiency. Collaborated with an Application System Engineer to automate transitions, fields update, email assignments, conditions and validations of project workflows in Groovy with ScriptRunner. Developed and Implemented custom fields with JavaScript in Jira project to create association between BMC Remedy ITSM tool and Salesforce SRM ticketing system. Utilized an enterprise business intelligence tool “MicroStrategy BI” to generate interactive monthly and quarterly dashboards",
+			"fromDate": "January 2019",
+			"toDate": "December 2019"
+		},
+		{
+			"position": "Information Technology Student Technician",
+			"organization": "University of Massachusetts Lowell",
+			"aboutWork": "Applied images, installed software, configured devices for deployment for staff and faculty devices. Troubleshooted and modified both hardware and software issues for staff and faculty computers. Maintained confidentiality and integrity of information residing on client’s systems as well as physical security of those systems. Maintained and reset Digital Learning Center labs for 490+ computers between two campuses",
+			"fromDate": "May 2018",
+			"toDate": "December 2018"
+		},
+		{
+			"position": "Software Developer Intern",
+			"organization": "Arrow Dot Automation Company",
+			"aboutWork": "Collaborated on a software development team of four to create a software application for a robot to serve customers in a local coffee shop. Modified and debugged robotic programming with Java testing framework TestNG and Junit. Collaborated with Mobile Application Engineers to design a user-friendly café menu in Java with Android Studio to aid efficient ordering",
+			"fromDate": "January 2015",
+			"toDate": "March 2015"
+		}
+	],
+	"education": [{
+			"university": "University of Massachusetts Lowell",
+			"degree": "Bachelor of Science",
+			"major": "Computer Science with minor Business Management",
+			"fromDate": "August 2016",
+			"toDate": "December 2019"
+		}
+	],
+		"skills": [{
+			"name": "C/C++"
+		},
+		{
+			"name": "Python"
+		},
+		{
+			"name": "Java"
+		},
+		{
+			"name": "HTML5"
+		},
+		{
+			"name": "CSS3"
+		},
+		{
+			"name": "Javascript"
+		},
+		{
+			"name": "MySQL"
+		},
+		{
+			"name": "React"
+		},
+		{
+			"name": "familiar with Swift"	
+		},
+		{
+			"name": "familiar with Groovy"
+		}
+	],
+	"projects": {
+		"paragraphOne": "Apart from being a web developer, I enjoy most of my time being outdoors. In the winter, I am an avid skier and novice ice climber. During the warmer months here in Colorado, I enjoy mountain biking, free climbing, and kayaking.",
+		"paragraphTwo": "When forced indoors, I follow a number of sci-fi and fantasy genre movies and television shows, I am an aspiring chef, and I spend a large amount of my free time exploring the latest technology advancements in the front-end web development world."
+	}
+
+}
