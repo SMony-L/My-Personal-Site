@@ -3,7 +3,7 @@
 		"firstName": "Sovanmony",
 		"lastName": "Lim",
 		"phoneNumber": "(978)996-3370",
-		"bio": "Hello, I am very passionate about technology both hardware and software. Experienced in object-oriented programming and history of working in the information technology and services industry. Interested in modern technologies like AI, machine learning, and computation finance. Looking forward to making the world a better place for EVERYONE!",
+		"bio": "Hello, I am very passionate about technology both hardware and software. Experienced in object-oriented programming and history of working in the information technology and services industry. Interested in modern technologies like artificial intelligence, machine learning, IoT, and computational finance. Looking forward to making the world a better place for EVERYONE!",
 		"email": "l.sovanmony@gmail.com",
 		"linkedin": "https://www.linkedin.com/in/smonylim/",
 		"github": "https://github.com/SMony-L"
@@ -19,14 +19,21 @@
 		{
 			"position": "Information Technology Student Technician",
 			"organization": "University of Massachusetts Lowell",
-			"aboutWork": "Applied images, installed software, configured devices for deployment for staff and faculty devices. Troubleshooted and modified both hardware and software issues for staff and faculty computers. Maintained confidentiality and integrity of information residing on client’s systems as well as physical security of those systems. Maintained and reset Digital Learning Center labs for 490+ computers between two campuses",
+			"aboutWork": "Applied images, installed software, configured devices for deployment for staff and faculty devices. Troubleshot and modified both hardware and software issues for staff and faculty computers. Maintained confidentiality and integrity of information residing on client’s systems as well as physical security of those systems. Collaborated with support engineers to maintain Digital Learning Center Labs for 490+ computers between two campuses",
 			"fromDate": "May 2018",
 			"toDate": "December 2018"
 		},
 		{
+			"position": "Information Technology Support Technician",
+			"organization": "American University of Phnom Penh",
+			"aboutWork": "Assisted IT department manager and provided technical support to students and professors for campus enrolling 300 students. Resolved computer hardware and software, printing, installation, and operating system issues",
+			"fromDate": "May 2016",
+			"toDate": "July 2016"
+		},
+		{
 			"position": "Software Developer Intern",
-			"organization": "Arrow Dot Automation Company",
-			"aboutWork": "Collaborated on a software development team of four to create a software application for a robot to serve customers in a local coffee shop. Modified and debugged robotic programming with Java testing framework TestNG and Junit. Collaborated with Mobile Application Engineers to design a user-friendly café menu in Java with Android Studio to aid efficient ordering",
+			"organization": "ArrowDot Co., Ltd",
+			"aboutWork": "Collaborated on a software development team of four to create a software application for a robot to serve customers in a local coffee shop. Modified and debugged robotic programming with Java testing framework TestNG and Junit. Designed a café menu application in Java with Android Studio to aid efficient ordering",
 			"fromDate": "January 2015",
 			"toDate": "March 2015"
 		}
@@ -62,6 +69,18 @@
 		},
 		{
 			"name": "React"
+		},
+		{
+			"name": "Git"
+		},
+		{
+			"name": "Docker"
+		},
+		{
+			"name": "Jira"
+		},
+		{
+			"name": "Confluence"
 		},
 		{
 			"name": "familiar with Swift"	
