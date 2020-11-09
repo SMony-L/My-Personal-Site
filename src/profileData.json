@@ -3,7 +3,7 @@
 		"firstName": "Sovanmony",
 		"lastName": "Lim",
 		"phoneNumber": "(978)996-3370",
-		"bio": "Hello, I am very passionate about technology both hardware and software. Experienced in object-oriented programming and history of working in the information technology and services industry. Interested in modern technologies like artificial intelligence, machine learning, IoT, and computational finance. Looking forward to making the world a better place for EVERYONE!",
+		"bio": "Hello, I am a recent Computer Science and minor Management graduate from University of Massachusetts Lowell. Experienced in Software Development, Web-Development, Technical Support, and history of working in the Financial Services and Information Technology industry. Interested in modern technologies like AI, Machine Learning, IoT, and Computational Finance. I enjoy learning about the newest emerging technologies and applications in the real world. My purpose is to utilize my knowledge and skill to the advantage of leading companies that aspire to cause a change in the world. Looking forward to making the world a better place for EVERYONE! ",
 		"email": "l.sovanmony@gmail.com",
 		"linkedin": "https://www.linkedin.com/in/smonylim/",
 		"github": "https://github.com/SMony-L"
@@ -21,6 +21,13 @@
 			"organization": "University of Massachusetts Lowell",
 			"aboutWork": "Applied images, installed software, configured devices for deployment for staff and faculty devices. Troubleshot and modified both hardware and software issues for staff and faculty computers. Maintained confidentiality and integrity of information residing on client’s systems as well as physical security of those systems. Collaborated with support engineers to maintain Digital Learning Center Labs for 490+ computers between two campuses",
 			"fromDate": "May 2018",
+			"toDate": "December 2018"
+		},
+		{
+			"position": "Co-Founder",
+			"organization": "DAB X (Social Media Online Shop provides: Authentic | High-Quality | Luxurious | Limited Edition | Super Rare - Clothing and Footwear)",
+			"aboutWork": "Conducted retail activities such as prepared business strategies, managed inventory, implemented marketing activities, fulfilled and shipped online orders. Acted as the primary point of contact for customers including orders, order inquiries, shipping inquiries, returns, and complaints. Managed online store revenue including cash handling and ensured an accurate to all payment processing and refunds",
+			"fromDate": "January 2017",
 			"toDate": "December 2018"
 		},
 		{
@@ -68,10 +75,13 @@
 			"name": "MySQL"
 		},
 		{
-			"name": "React"
+			"name": "ReactJS"
 		},
 		{
 			"name": "Git"
+		},
+		{
+			"name": "GitHub"
 		},
 		{
 			"name": "Docker"
@@ -83,10 +93,37 @@
 			"name": "Confluence"
 		},
 		{
-			"name": "familiar with Swift"	
+			"name": "Familiar with Swift"	
 		},
 		{
-			"name": "familiar with Groovy"
+			"name": "Familiar with Groovy"
+		},
+		{
+			"name": "Exposure to Azure"
+		},
+		{
+			"name": "Exposure to AWS"
+		},
+		{
+			"name": "Linux"
+		},
+		{
+			"name": "Windows"
+		},
+		{
+			"name": "Mac OS"
+		},
+		{
+			"name": "Terminal"
+		},
+		{
+			"name": "Android Studio"
+		},
+		{
+			"name": "Anaconda"
+		},
+		{
+			"name": "Learning and Exploring Kubernetes"
 		}
 	],
 	"projects": [{
@@ -95,9 +132,15 @@
 		"aboutProject": "Implemented Pac-Man agents using artificial intelligent algorithms such as DFS, BFS, A* search, alpha-beta pruning, minimax, expectimax and a model free reinforcement learning algorithm. Designed strategies for the agents to play a multi-player capture-the-flag variant of Pacman."
 	}, 
 	{
-		"title": "Machine Learning Final Project",
+		"title": "Solving Classification and Regression Problems Using Machine and Deep Learning",
 		"projectLang": "Python",
 		"aboutProject": "Collaborated in a team of four to analyze datasets from Scikit-learn library with linear regression, multivariate regression, decision tree, SVM and multi-layer perception classifier. Analyzed and generated ad-hoc reports with Jupyter Notebook and Latex"
-	}]
+	}, 
+	{
+		"title": "Memory allocation and memory free operation",
+		"projectLang": "C++",
+		"aboutProject": "The allocation and free operations will be made against an initially empty fixed sized free memory pool. The program must support three allocation policies: First fit linked list, Best fit linked list, Buddy system power of 2 block allocation (using a minimum allocation of 32 bytes)"
+	}
+	]	
 
 }
