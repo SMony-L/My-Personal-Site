@@ -10,14 +10,14 @@
 	},
 	"experience": [
 		{
-			"position": "Enterprise Architecture Co-op",
+			"position": "Enterprise Architecture Co-op (Application Engineer)",
 			"organization": "MFS Investment Management",
 			"aboutWork": "Designed, implemented, and maintained Enterprise Architecture Kanban boards using Jira in development, stage, and production environment to expedite review process, which results in a 20% increase in efficiency. Collaborated with Application Engineer Specialists to develop automated transitions, fields update, email assignments, conditions, and validations of project workflows in Groovy using ScriptRunner. Developed and implemented custom fields using JavaScript in Jira projects to create real-time synchronization between BMC Remedy ITSM tool and Salesforce SRM ticketing system. Analyzed system database, developed application models, and generated interactive reports using MicroStrategy BI for monthly and quarterly dashboards",
 			"fromDate": "January 2019",
 			"toDate": "December 2019"
 		},
 		{
-			"position": "Information Technology Student Technician",
+			"position": "Information Technology Technician",
 			"organization": "University of Massachusetts Lowell",
 			"aboutWork": "Applied images, installed software, and configured devices for over 200 deployment of staff and faculty. Troubleshot, diagnosed, and resolved ranging from software to hardware to connectivity issues. Maintained confidentiality and integrity of information residing on clients’ systems as well as their physical security. Collaborated with Support Engineers to maintain over 490 computers in Digital Learning Center labs",
 			"fromDate": "May 2018",
