@@ -12,14 +12,14 @@
 		{
 			"position": "Enterprise Architecture Co-op",
 			"organization": "MFS Investment Management",
-			"aboutWork": "Implemented Enterprise Architect Review Board with Kanban board in Jira to aid process efficiency. Collaborated with an Application System Engineer to automate transitions, fields update, email assignments, conditions and validations of project workflows in Groovy with ScriptRunner. Developed and Implemented custom fields with JavaScript in Jira project to create association between BMC Remedy ITSM tool and Salesforce SRM ticketing system. Utilized an enterprise business intelligence tool “MicroStrategy BI” to generate interactive monthly and quarterly dashboards",
+			"aboutWork": "Designed, implemented, and maintained Enterprise Architecture Kanban boards using Jira in development, stage, and production environment to expedite review process, which results in a 20% increase in efficiency. Collaborated with Application Engineer Specialists to develop automated transitions, fields update, email assignments, conditions, and validations of project workflows in Groovy using ScriptRunner. Developed and implemented custom fields using JavaScript in Jira projects to create real-time synchronization between BMC Remedy ITSM tool and Salesforce SRM ticketing system. Analyzed system database, developed application models, and generated interactive reports using MicroStrategy BI for monthly and quarterly dashboards",
 			"fromDate": "January 2019",
 			"toDate": "December 2019"
 		},
 		{
 			"position": "Information Technology Student Technician",
 			"organization": "University of Massachusetts Lowell",
-			"aboutWork": "Applied images, installed software, configured devices for deployment for staff and faculty devices. Troubleshot and modified both hardware and software issues for staff and faculty computers. Maintained confidentiality and integrity of information residing on client’s systems as well as physical security of those systems. Collaborated with support engineers to maintain Digital Learning Center Labs for 490+ computers between two campuses",
+			"aboutWork": "Applied images, installed software, and configured devices for over 200 deployment of staff and faculty. Troubleshot, diagnosed, and resolved ranging from software to hardware to connectivity issues. Maintained confidentiality and integrity of information residing on clients’ systems as well as their physical security. Collaborated with Support Engineers to maintain over 490 computers in Digital Learning Center labs",
 			"fromDate": "May 2018",
 			"toDate": "December 2018"
 		},
@@ -33,14 +33,14 @@
 		{
 			"position": "Information Technology Support Technician",
 			"organization": "American University of Phnom Penh",
-			"aboutWork": "Assisted IT department manager and provided technical support to students and professors for campus enrolling 300 students. Resolved computer hardware and software, printing, installation, and operating system issues",
-			"fromDate": "May 2016",
+			"aboutWork": "Worked closely with IT department manager and provided on-site technical support to students and professors. Resolved hardware and software issues such as operating system configuration, password reset, and printer hook-ups",
+			"fromDate": "Jan 2016",
 			"toDate": "July 2016"
 		},
 		{
-			"position": "Software Developer Intern",
+			"position": "Software Engineer Intern",
 			"organization": "ArrowDot Co., Ltd",
-			"aboutWork": "Collaborated on a software development team of four to create a software application for a robot to serve customers in a local coffee shop. Modified and debugged robotic programming with Java testing framework TestNG and Junit. Designed a café menu application in Java with Android Studio to aid efficient ordering",
+			"aboutWork": "Collaborated in an agile development team to develop, test, and deploy new software patches such as bug fixes, enhanced usability, proposed improvements, and updated documentation. Supported Mobile Application Engineers in planning, designing, developing, and implementing a high-performance user-friendly mobile application",
 			"fromDate": "January 2015",
 			"toDate": "March 2015"
 		}
@@ -49,7 +49,7 @@
 			"university": "University of Massachusetts Lowell",
 			"degree": "Bachelor of Science",
 			"major": "Computer Science with minor Business Management",
-			"fromDate": "August 2016",
+			"fromDate": "September 2016",
 			"toDate": "December 2019"
 		}
 	],
@@ -123,13 +123,16 @@
 			"name": "Anaconda"
 		},
 		{
+			"name": "Exposure to RESTful API"
+		},
+		{
 			"name": "Learning and Exploring Kubernetes"
 		}
 	],
 	"projects": [{
 		"title": "AI Pac Man",
 		"projectLang": "Python",
-		"aboutProject": "Implemented Pac-Man agents using artificial intelligent algorithms such as DFS, BFS, A* search, alpha-beta pruning, minimax, expectimax and a model free reinforcement learning algorithm. Designed strategies for the agents to play a multi-player capture-the-flag variant of Pacman."
+		"aboutProject": "Implemented various AI techniques such as DFS, BFS, UCS, A*, alpha-beta pruning, minimax, expectimax, MDP, and Q-learning for the game of Pac-Man. Designed strategies for the agents to play a multi-player capture-the-flag variant of Pacman."
 	}, 
 	{
 		"title": "Solving Classification and Regression Problems Using Machine and Deep Learning",
