@@ -3,12 +3,19 @@
 		"firstName": "Sovanmony",
 		"lastName": "Lim",
 		"phoneNumber": "(978)996-3370",
-		"bio": "Hello, I am a recent Computer Science and minor Management graduate from University of Massachusetts Lowell. Experienced in Software Development, Web-Development, Technical Support, and history of working in the Financial Services and Information Technology industry. Interested in modern technologies like AI, Machine Learning, IoT, and Computational Finance. I enjoy learning about the newest emerging technologies and applications in the real world. My purpose is to utilize my knowledge and skill to the advantage of leading companies that aspire to cause a change in the world. Looking forward to making the world a better place for EVERYONE! ",
+		"bio": "Passionate programmer with enterpreneurial mindset. Enjoy learning new emerging technologies and applications in the real world. Experienced Engineer with a demonstrated history of working in specialized financial services and technology. Intrested in Fin-Tech, IoT, Payment Services, Financial Services, Crypto-currency, Blockchain, Logistics and Stock Market. Purpose is to learn, share and inspire. 2019 Computer Science and minor Management graduate from University of Massachusetts Lowell.",
 		"email": "l.sovanmony@gmail.com",
 		"linkedin": "https://www.linkedin.com/in/smonylim/",
 		"github": "https://github.com/SMony-L"
 	},
 	"experience": [
+		{
+			"position": "Software Support Engineer",
+			"organization": "Very Good Security",
+			"aboutWork": "Collaborating with Front-end, Back-end, Integration, DevOps, and Core Infrastructure software engineers to problem-solve critical software production issues such as Vault API, HTTP Proxy, SFTP Proxy and native iOS/Android SDKs. Implementing automation tools to improve day-to-day work efficiency and manual task execution, improving overall application performance and availability by 15%. Assisting customers implementing complex integration with VGS products, debugging their custom codes, and ensuring issues are fully resolved and exceeding customer expectation. Upholding ongoing expert knowledge of diverse technologies and represent as a task force leader in creating, planning, and implementing technical articles to resolve product issues and future troubleshooting",
+			"fromDate": "January 2021",
+			"toDate": "Present"
+		},
 		{
 			"position": "Enterprise Architecture Co-op (Application Engineer)",
 			"organization": "MFS Investment Management",
@@ -75,7 +82,10 @@
 			"name": "MySQL"
 		},
 		{
-			"name": "ReactJS"
+			"name": "React.js"
+		},
+		{
+			"name": "Node.js"
 		},
 		{
 			"name": "Git"
@@ -99,6 +109,9 @@
 			"name": "Familiar with Groovy"
 		},
 		{
+			"name": "Knowledge in Kotlin"
+		},
+		{
 			"name": "Exposure to Azure"
 		},
 		{
@@ -111,16 +124,16 @@
 			"name": "Windows"
 		},
 		{
-			"name": "Mac OS"
+			"name": "macOS"
 		},
 		{
 			"name": "Terminal"
 		},
 		{
-			"name": "Android Studio"
+			"name": "iOS and Android SDK"
 		},
 		{
-			"name": "Anaconda"
+			"name": "Exposure to MongoDB"
 		},
 		{
 			"name": "Exposure to RESTful API"
