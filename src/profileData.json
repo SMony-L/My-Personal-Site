@@ -2,8 +2,8 @@
 	"landing": {
 		"firstName": "Sovanmony",
 		"lastName": "Lim",
-		"phoneNumber": "(978)996-3370",
-		"bio": "Passionate programmer with an entrepreneurial mindset. Enjoy learning new emerging technologies and applications in the real world. Experienced Engineer with a demonstrated history of working in specialized financial services and technology. Interested in Fin-Tech, IoT, Payment Services, Financial Services, Crypto-currency, Blockchain, Logistics, and Stock Market. 2019 Computer Science and minor Management graduate from University of Massachusetts Lowell. Learn, Share and Inspire.",
+		"phoneNumber": "(978) 996-3370",
+		"bio": "Passionate programmer with an entrepreneurial mindset. Enjoy learning new emerging technologies and applications in the real world. Experienced Engineer with a demonstrated history of working in specialized financial services and technology. Skilled in Python, C++, JavaScript, and web development. Interested in Fin-Tech, IoT, Payment Services, Financial Services, Crypto-currency, Blockchain, Logistics, and Stock Market. Learn, Share and Inspire.",
 		"email": "l.sovanmony@gmail.com",
 		"linkedin": "https://www.linkedin.com/in/smonylim/",
 		"github": "https://github.com/SMony-L"
@@ -12,42 +12,42 @@
 		{
 			"position": "Software Support Engineer",
 			"organization": "Very Good Security",
-			"aboutWork": "Collaborating with Front-end, Back-end, Integration, DevOps, and Core Infrastructure software engineers to problem-solve critical software production issues such as Vault API, HTTP Proxy, SFTP Proxy and native iOS/Android SDKs. Implementing automation tools to improve day-to-day work efficiency and manual task execution, improving overall application performance and availability by 15%. Assisting customers implementing complex integration with VGS products, debugging their custom codes, and ensuring issues are fully resolved and exceeding customer expectation. Upholding ongoing expert knowledge of diverse technologies and represent as a task force leader in creating, planning, and implementing technical articles to resolve product issues and future troubleshooting",
+			"aboutWork": "Collaborating with Front-end, Back-end, Integration, DevOps, and Core Infrastructure Software Engineers to problem-solve critical software production issues such as Vault API, HTTP, SFTP, TCP Proxy, and native iOS/Android SDKs. Implementing, maintaining, and enhancing automated migration tools in Python to process over 1 million card data monthly, improving overall migration process and performance by 50%. Executing complex data integrations with VGS solutions, debugging custom operation codes, and YAML configurations to ensure sensitive payment data are securely tokenized and card issuers remain PCI compliant. Upholding ongoing expert knowledge of diverse technologies, leading a task force to create technical articles on resolving product issues and troubleshooting, resulting in 20% reduction of incoming tickets.",
 			"fromDate": "January 2021",
 			"toDate": "Present"
 		},
 		{
-			"position": "Enterprise Architecture Co-op (Application Engineer)",
+			"position": "Enterprise Architecture (Application Engineer)",
 			"organization": "MFS Investment Management",
-			"aboutWork": "Designed, implemented, and maintained Enterprise Architecture Kanban boards using Jira in development, stage, and production environment to expedite review process, which results in a 20% increase in efficiency. Collaborated with Application Engineer Specialists to develop automated transitions, fields update, email assignments, conditions, and validations of project workflows in Groovy using ScriptRunner. Developed and implemented custom fields using JavaScript in Jira projects to create real-time synchronization between BMC Remedy ITSM tool and Salesforce SRM ticketing system. Analyzed system database, developed application models, and generated interactive reports using MicroStrategy BI for monthly and quarterly dashboards",
+			"aboutWork": "Designed, implemented, and maintained Enterprise Architecture Kanban boards in Jira development, stage, and production environment to expedite review process, increased 20% efficiency across all departments. Collaborated with Application Engineer Specialists to develop automated transitions, fields update, email assignments, conditions, and validations of project workflows in Groovy using Script Runner. Developed and implemented custom fields using JavaScript in Jira projects to create real-time synchronization between BMC Remedy ITSM tool and Salesforce SRM ticketing system. Analyzed system database, developed application models, and generated interactive reports using MicroStrategy BI for monthly and quarterly dashboards.",
 			"fromDate": "January 2019",
 			"toDate": "December 2019"
 		},
 		{
-			"position": "Information Technology Technician",
+			"position": "Information Technology Specialist",
 			"organization": "University of Massachusetts Lowell",
-			"aboutWork": "Applied images, installed software, and configured devices for over 200 deployment of staff and faculty. Troubleshot, diagnosed, and resolved ranging from software to hardware to connectivity issues. Maintained confidentiality and integrity of information residing on clients’ systems as well as their physical security. Collaborated with Support Engineers to maintain over 490 computers in Digital Learning Center labs",
+			"aboutWork": "Applied images, installed software, and configured devices for over 200 deployments of staff and faculty. Troubleshot, diagnosed, resolved daily issues (desktop applications, workstations, and configuration problems) in a timely manner with limited disruptions across 3 university campuses. Maintained confidentiality and integrity of information residing on clients’ systems as well as their physical security. Collaborated with Support Engineers to maintain over 490 computers in Digital Learning Center labs.",
 			"fromDate": "May 2018",
 			"toDate": "December 2018"
 		},
 		{
 			"position": "Co-Founder",
 			"organization": "DAB X (Social Media Online Shop provides: Authentic | High-Quality | Luxurious | Limited Edition | Super Rare - Clothing and Footwear)",
-			"aboutWork": "Conducted retail activities such as prepared business strategies, managed inventory, implemented marketing activities, fulfilled and shipped online orders. Acted as the primary point of contact for customers including orders, order inquiries, shipping inquiries, returns, and complaints. Managed online store revenue including cash handling and ensured an accurate to all payment processing and refunds",
+			"aboutWork": "Conducted retail activities such as prepared business strategies, managed inventory, implemented marketing activities, fulfilled and shipped online orders. Acted as the primary point of contact for customers including orders, order inquiries, shipping inquiries, returns, and complaints. Managed online store revenue including cash handling and ensured an accurate to all payment processing and refunds.",
 			"fromDate": "January 2017",
 			"toDate": "December 2018"
 		},
 		{
 			"position": "Information Technology Support Technician",
 			"organization": "American University of Phnom Penh",
-			"aboutWork": "Worked closely with IT department manager and provided on-site technical support to students and professors. Resolved hardware and software issues such as operating system configuration, password reset, and printer hook-ups",
+			"aboutWork": "Worked closely with IT department manager and provided on-site technical support to students and professors. Resolved hardware and software issues such as operating system configuration, password reset, and printer hook-ups.",
 			"fromDate": "January 2016",
 			"toDate": "July 2016"
 		},
 		{
 			"position": "Software Engineer Intern",
 			"organization": "ArrowDot Co., Ltd",
-			"aboutWork": "Collaborated in an agile development team to develop, test, and deploy new software patches such as bug fixes, enhanced usability, proposed improvements, and updated documentation. Supported Mobile Application Engineers in planning, designing, developing, and implementing a high-performance user-friendly mobile application",
+			"aboutWork": "Collaborated in an Agile development ecosystem to develop, test, deploy end-to-end web application, such as new software releases, bug fixes, feature enhancements, application optimizations, and documentation updates. Supported Mobile Application Engineers in planning, designing, developing, and implementing a high-performance user-friendly mobile application in Java. Implemented internal automated tools to optimize manual task execution across a wide variety of projects.",
 			"fromDate": "January 2015",
 			"toDate": "March 2015"
 		}
@@ -97,6 +97,21 @@
 			"name": "Docker"
 		},
 		{
+			"name": "Familiar with Kubernetes"
+		},
+		{
+			"name": "Exposure to TypeScript"
+		},
+		{
+			"name": "CLI tools"
+		},
+		{
+			"name": "Grafana"
+		},
+		{
+			"name": "Rollbar"
+		},
+		{
 			"name": "Jira"
 		},
 		{
@@ -137,12 +152,14 @@
 		},
 		{
 			"name": "Exposure to RESTful API"
-		},
-		{
-			"name": "Learning and Exploring Kubernetes"
 		}
 	],
 	"projects": [{
+		"title": "Personal Website",
+		"projectLang": "React JS",
+		"aboutProject": "Design, develop, and test a dynamic, mobile friendly, and multi-browser compatible personal website using HTML, CSS, JavaScript, ReactJS, Bootstrap, and jQuery. Utilize GitHub Student Developer Pack to deploy and host React Application with custom domain name."
+	}, 
+	{
 		"title": "AI Pac Man",
 		"projectLang": "Python",
 		"aboutProject": "Implemented various AI techniques such as DFS, BFS, UCS, A*, alpha-beta pruning, minimax, expectimax, MDP, and Q-learning for the game of Pac-Man. Designed strategies for the agents to play a multi-player capture-the-flag variant of Pacman."
