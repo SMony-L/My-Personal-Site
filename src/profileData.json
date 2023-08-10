@@ -10,23 +10,37 @@
 	},
 	"experience": [
 		{
+			"position": "Solution Architect",
+			"organization": "Very Good Security",
+			"aboutWork": "Spearheading customer engagement by actively participating in technical pre-sale calls to fully comprehend client requirements and pain points, facilitating the proposal of tailored, innovative solutions. Delivering 'best practices' architectures for the solution ecosystem, covering applications, systems, business processes, technology, integrations, and data analytics, ensuring optimal client solutions. Engaging closely with business, product, and engineering teams to drive product success, leveraging in-depth insights into industry trends and business needs to enhance Go-To-Market (GTM) activities and provide customer feedback",
+			"fromDate": "January 2023",
+			"toDate": "Present"
+		},
+		{
+			"position": "Site Reliability Engineer",
+			"organization": "Very Good Security",
+			"aboutWork": "Collaborated with Development and Customer Support teams to create dependable, scalable solutions, while considering SDLC requirements, capabilities, and constraints, resulting in the delivery of highly resilient applications. Configured real-time production metric dashboards in Grafana for performance analysis and service availability. Maintained, monitored, and scaled AWS infrastructure including EC2, VPC, IAM, RDS, S3, Route53, ELB, and Lambda. Actively engaged in infrastructure code review for patches, deployments, migrations, and releases",
+			"fromDate": "May 2022",
+			"toDate": "December 2022"
+		},
+		{
 			"position": "Software Support Engineer",
 			"organization": "Very Good Security",
-			"aboutWork": "Collaborating with Front-end, Back-end, Integration, DevOps, and Core Infrastructure Software Engineers to problem-solve critical software production issues such as Vault API, HTTP, SFTP, TCP Proxy, and native iOS/Android SDKs. Implementing, maintaining, and enhancing automated migration tools in Python to process over 1 million card data monthly, improving overall migration process and performance by 50%. Executing complex data integrations with VGS solutions, debugging custom operation codes, and YAML configurations to ensure sensitive payment data are securely tokenized and card issuers remain PCI compliant. Upholding ongoing expert knowledge of diverse technologies, leading a task force to create technical articles on resolving product issues and troubleshooting, resulting in 20% reduction of incoming tickets.",
+			"aboutWork": "Collaborated with cross-functional teams to problem-solve critical software production issues involving Vault API, HTTP, SFTP, TCP Proxy, and native iOS/Android SDKs. Implemented, maintained, and enhanced Python (Flask) automated migration tools, processing over 1 million card data monthly and achieving a 50% improvement in migration process and performance. Executed intricate data integrations with VGS solutions, debugging custom operation codes and YAML configurations to ensure secure tokenization of sensitive payment data and maintain PCI compliance",
 			"fromDate": "January 2021",
-			"toDate": "Present"
+			"toDate": "May 2022"
 		},
 		{
 			"position": "Enterprise Architecture (Application Engineer)",
 			"organization": "MFS Investment Management",
-			"aboutWork": "Designed, implemented, and maintained Enterprise Architecture Kanban boards in Jira development, stage, and production environment to expedite review process, increased 20% efficiency across all departments. Collaborated with Application Engineer Specialists to develop automated transitions, fields update, email assignments, conditions, and validations of project workflows in Groovy using Script Runner. Developed and implemented custom fields using JavaScript in Jira projects to create real-time synchronization between BMC Remedy ITSM tool and Salesforce SRM ticketing system. Analyzed system database, developed application models, and generated interactive reports using MicroStrategy BI for monthly and quarterly dashboards.",
+			"aboutWork": "Designed, implemented, and maintained Enterprise Architecture Kanban boards in Jira development, stage, and production environment to expedite review process, increased 20% efficiency across all departments. Collaborated with Application Engineer Specialists to automate transitions, update fields, assign emails, set conditions, and validate project workflows using Groovy in Script Runner",
 			"fromDate": "January 2019",
 			"toDate": "December 2019"
 		},
 		{
 			"position": "Information Technology Specialist",
 			"organization": "University of Massachusetts Lowell",
-			"aboutWork": "Applied images, installed software, and configured devices for over 200 deployments of staff and faculty. Troubleshot, diagnosed, resolved daily issues (desktop applications, workstations, and configuration problems) in a timely manner with limited disruptions across 3 university campuses. Maintained confidentiality and integrity of information residing on clients’ systems as well as their physical security. Collaborated with Support Engineers to maintain over 490 computers in Digital Learning Center labs.",
+			"aboutWork": "Applied images, installed software, and configured devices for over 200 deployments of staff and faculty. Troubleshot, diagnosed, resolved daily issues (desktop applications, workstations, and configuration problems) in a timely manner with limited disruptions across 3 university campuses",
 			"fromDate": "May 2018",
 			"toDate": "December 2018"
 		},
@@ -97,7 +111,7 @@
 			"name": "Docker"
 		},
 		{
-			"name": "Familiar with Kubernetes"
+			"name": "Kubernetes"
 		},
 		{
 			"name": "Exposure to TypeScript"
@@ -127,10 +141,31 @@
 			"name": "Knowledge in Kotlin"
 		},
 		{
-			"name": "Exposure to Azure"
+			"name": "Familiar with Kafka"
 		},
 		{
-			"name": "Exposure to AWS"
+			"name": "AWS (EC2, EKS, Lambda)"
+		},
+		{
+			"name": "Terraform"
+		},
+		{
+			"name": "CI/CD"
+		},
+		{
+			"name": "Helm"
+		},
+		{
+			"name": "Apache Airflow"
+		},
+		{
+			"name": "Dagster"
+		},
+		{
+			"name": "Postman"
+		},
+		{
+			"name": "Prometheus"
 		},
 		{
 			"name": "Linux"
@@ -148,10 +183,10 @@
 			"name": "iOS and Android SDK"
 		},
 		{
-			"name": "Exposure to MongoDB"
+			"name": "Exposure to NoSQL (MongoDB)"
 		},
 		{
-			"name": "Exposure to RESTful API"
+			"name": "RESTful API"
 		}
 	],
 	"projects": [{
